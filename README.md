@@ -1,5 +1,5 @@
-# pcb-portfolio
-It starts here - LED Board
+# LED Board
+It starts here
 SUNY Brockport CIS Student
 Designed in KiCad Summer 2026
 Battery + 330 ohm resistor + LED
