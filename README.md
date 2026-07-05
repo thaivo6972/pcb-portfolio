@@ -2,10 +2,10 @@
 
 CIS student at SUNY Brockport. Learning PCB design with KiCad.
 
-##Projects
+## Projects
 | # | Name | Status |
 |---|------|--------|
 | 01 | Coin cell LED board | Done — DRC passed |
 
-##Tools
+## Tools
 Kicad 9 
